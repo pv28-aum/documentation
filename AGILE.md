@@ -1,6 +1,6 @@
 # Agile
 
-The ECS will be following the Agile methodology for the delivery of the project. This method assists teams in responding to the unpredictability of constructing software. It uses incremental, iterative work sequences that are commonly known as sprints.
+This method assists teams in responding to the unpredictability of constructing software. It uses incremental, iterative work sequences that are commonly known as sprints.
 
 The general principles of the Agile Methodology include:
 
