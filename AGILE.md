@@ -19,7 +19,7 @@ The Agile methodology stipulates that there is a certain repetitiveness of the t
 
 We will aiming to follow the below ceremonies as part of our software development.
 
-## Triage
+### Triage
 Schedule: Ongoing
 Owner: Product Managers (PM and BAs)
 Engagement: Product Owners and Key Stakeholders
@@ -28,7 +28,7 @@ This is the entry point for all requirements that come through. In Agile anyone 
 
 This process is critical in ensuring that we are able to maintain a slim backlog.
 
-## Backlog Refinement
+### Backlog Refinement
 Schedule: Ongoing
 Owner: BAs
 Engagement: Product Owners, Key stakeholders, Tech team (depending on the item being refined)
@@ -37,7 +37,7 @@ This is the the most critical of all the ceremonies that are being followed in t
 
 It is critical to ensure that at least 40% of the top of the backlog is in a health state at any given point in time.
 
-## Sprint Planning
+### Sprint Planning
 Schedule: Bi-weekly
 Owner: SCRUM Master
 Engagement: Product Managers, DEV team, Product Owners
@@ -46,14 +46,14 @@ This ceremony happens bi-weekly to help prepare for the next Sprint that is abou
 
 It is generally encouraged to pick a mix of high priority items with a few low hanging items as well so that if items were to slip the Sprint they are not high priority.
 
-## SCRUM
+### SCRUM
 Schedule: Daily
 Owner: SCRUM Master
 Engagement: DEV, Product Managers, Product Owners (good to have)
 
 This is a daily ceremony where the entire team get together along with key stakeholders and discuss issues and open items and any blockers that needs resolving. Each member in the team walks through what they have done and what they will be doing and raise any blockers. The call should include everyone that will help in progressing any blockers.
 
-## Retrospective
+### Retrospective
 Schedule: End of Sprint
 Owner: SCRUM Master
 Engagement: DEV team, Product Managers
